@@ -146,7 +146,7 @@ export default function ClinicExperienceGallery() {
 
           <div className="flex items-center gap-3 shrink-0">
             <span className="font-mono text-xs text-slate-400">
-              Demo City Pavilion 4B
+              Demo City 
             </span>
           </div>
         </div>

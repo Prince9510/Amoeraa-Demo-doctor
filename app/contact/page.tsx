@@ -177,7 +177,7 @@ export default function ContactPage() {
                 <div className="space-y-1">
                   <p className="font-serif text-2xl font-bold">Aura Medical Pavilion</p>
                   <p className="text-xs text-teal-200 font-mono tracking-wider">
-                    123 Demo Medical Avenue, Pavilion 4B
+                    Mavadi, Rajkot
                   </p>
                   <p className="text-[11px] text-slate-400">
                     Opposite Central Botanic Gardens &bull; Demo City

@@ -17,7 +17,7 @@ export default function PhilosophySection() {
         {/* Eyebrow */}
         <FadeUp distance={20}>
           <span className="inline-block font-mono text-xs uppercase tracking-widest text-teal-300 font-semibold px-3 py-1 rounded-full bg-teal-900/60 border border-teal-800">
-            Medical Philosophy
+            Designed & Developed by Amperaa
           </span>
         </FadeUp>
 

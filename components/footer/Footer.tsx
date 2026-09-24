@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { HeartPulse, ArrowUpRight, Phone, Mail, MapPin, Sparkles } from "lucide-react";
 import { clinicData } from "@/data/clinic";
 import { footerLinks, demoDisclaimer } from "@/data/navigation";
@@ -114,10 +115,22 @@ export default function Footer() {
           </p>
 
           <div className="flex items-center gap-3">
-            <span className="text-slate-400">
-              Crafted as a demonstration by{" "}
-              <span className="text-teal-300 font-semibold">Amperaa</span>
-            </span>
+            <span className="text-slate-400">Designed &amp; Developed by</span>
+            <Link
+              href="https://amperaa.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Visit Amperaa"
+              className="group inline-flex items-center rounded-sm focus:outline-none focus-visible:ring-2 focus-visible:ring-orange-400 focus-visible:ring-offset-2 focus-visible:ring-offset-slate-900"
+            >
+              <Image
+                src="/logo.svg"
+                alt="Amperaa"
+                width={1000}
+                height={900}
+                className="h-14 w-auto opacity-90 transition-opacity group-hover:opacity-100"
+              />
+            </Link>
           </div>
         </div>
       </div>

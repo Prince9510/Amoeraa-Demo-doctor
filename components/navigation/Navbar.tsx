@@ -73,7 +73,7 @@ export default function Navbar() {
                   Aura Medical
                 </span>
                 <span className="font-mono text-[9px] uppercase tracking-widest text-slate-400 mt-0.5">
-                  Pavilion &bull; Dr. Vance
+                  Designed & Developed by Amperaa
                 </span>
               </div>
             </Link>

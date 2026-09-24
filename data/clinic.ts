@@ -142,19 +142,19 @@ export const clinicData: ClinicInfo = {
     { days: "Sunday", hours: "Closed", note: "Direct physician on-call support for members" }
   ],
   address: {
-    street: "123 Demo Medical Avenue",
-    suite: "Pavilion 4B, Level 4",
-    district: "Parkway Medical District",
-    city: "Demo City",
-    postal: "560001",
+    street: "Mavdi",
+    suite: "",
+    district: "Rajkot",
+    city: "Rajkot",
+    postal: "360004",
     country: "India",
-    mapCoordinates: { lat: 12.9716, lng: 77.5946 }
+    mapCoordinates: { lat: 22.26607, lng: 70.783386 }
   },
   contact: {
-    phone: "+91 90000 00000",
-    displayPhone: "+91 90000 00000",
-    email: "concierge@auramedical-demo.com",
-    whatsapp: "https://wa.me/919000000000?text=Hello%20Aura%20Medical%20Pavilion%2C%20I%20would%20like%20to%20inquire%20about%20a%20consultation.",
+    phone: "+91 909 909 2413",
+    displayPhone: "+91 909 909 2413",
+    email: "amperaa.com",
+    whatsapp: "https://wa.me/919099092413?text=Hello%20Aura%20Medical%20Pavilion%2C%20I%20would%20like%20to%20inquire%20about%20a%20consultation.",
     emergencyNote:
       "For acute medical emergencies, please immediately call local emergency services or visit the nearest hospital emergency department."
   },

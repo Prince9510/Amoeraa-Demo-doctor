@@ -346,7 +346,7 @@ function AppointmentForm() {
                           onChange={(e) =>
                             setFormData({ ...formData, phone: e.target.value })
                           }
-                          placeholder="+91 98765 43210"
+                          placeholder="+91 909 909 2413"
                           className={`w-full pl-11 pr-4 py-3.5 rounded-2xl bg-warm-bg border text-sm text-slate-800 placeholder:text-slate-400 focus:bg-white transition-all ${
                             errors.phone
                               ? "border-red-400 focus:ring-red-400"
