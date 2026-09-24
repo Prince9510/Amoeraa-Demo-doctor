@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 import { servicesData } from "@/data/services";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://auramedical-demo.amperaa.com";
+  const baseUrl = "https://amperaa.com";
 
   const staticRoutes = [
     "",

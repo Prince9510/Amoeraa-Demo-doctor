@@ -28,7 +28,7 @@ export default function PhilosophySection() {
             <span className="italic font-light text-teal-300">
               PERSONAL.
             </span>
-          </h2>
+          </h2>x
         </FadeUp>
 
         {/* Supporting Text */}

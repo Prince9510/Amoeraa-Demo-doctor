@@ -6,7 +6,7 @@ import { footerLinks, demoDisclaimer } from "@/data/navigation";
 
 export default function Footer() {
   return (
-    <footer className="bg-slate-900 text-slate-300 pt-20 pb-12 border-t border-slate-800">
+    <footer id="site-footer" className="bg-slate-900 text-slate-300 pt-20 pb-32 md:pb-12 border-t border-slate-800">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Top Editorial Banner */}
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 pb-16 border-b border-slate-800/80">
@@ -126,9 +126,9 @@ export default function Footer() {
               <Image
                 src="/logo.svg"
                 alt="Amperaa"
-                width={1000}
-                height={900}
-                className="h-14 w-auto opacity-90 transition-opacity group-hover:opacity-100"
+                width={280}
+                height={60}
+                className="h-10 sm:h-12 w-auto opacity-90 transition-opacity group-hover:opacity-100"
               />
             </Link>
           </div>

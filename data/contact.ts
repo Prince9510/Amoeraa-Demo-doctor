@@ -52,7 +52,7 @@ export const contactData: ContactDetails = {
   communication: {
     phone: "+91 909 909 2413",
     displayPhone: "+91 909 909 2413",
-    email: "amperaa.com",
+    email: "info@amperaa.com",
     whatsappText: "Chat with Patient Concierge",
     whatsappUrl: "https://wa.me/919099092413?text=Hello%20Aura%20Medical%20Pavilion%2C%20I%20would%20like%20to%20inquire%20about%20a%20consultation."
   },

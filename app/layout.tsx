@@ -62,7 +62,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://auramedical-demo.amperaa.com",
+    url: "https://amperaa.com",
     title: "Dr. Julian Vance, MD | Aura Medical Pavilion",
     description:
       "Compassionate care. Backed by expertise. Thoughtful private medical practice demo by Amperaa.",
