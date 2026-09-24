@@ -60,7 +60,7 @@ export default function DoctorPreview() {
                 <h2 className="font-serif text-3xl sm:text-5xl font-normal text-slate-900 tracking-tight leading-tight">
                   {doctorData.name}
                   <span className="block text-xl sm:text-2xl text-slate-400 font-light font-serif mt-1">
-                    Specialist in {doctorData.specialty}
+                    Designed & Developed by Amperaa
                   </span>
                 </h2>
               </div>

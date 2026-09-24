@@ -40,21 +40,21 @@ export const contactData: ContactDetails = {
   doctorName: "Dr. Julian Vance, MD",
   tagline: "Thoughtful care. Modern medicine. A healthier tomorrow.",
   address: {
-    line1: "123 Demo Medical Avenue",
-    line2: "Pavilion 4B, Level 4 (West Atrium)",
+    line1: "Mavdi, Rajkot",
+    line2: "",
     landmark: "Directly opposite Central Botanic Gardens",
-    city: "Demo City",
-    state: "Karnataka",
-    postalCode: "560001",
+    city: "Rajkot",
+    state: "Gujarat",
+    postalCode: "360004",
     country: "India",
     parkingInstructions: "Complimentary valet parking is available at the West Pavilion entrance for all scheduled patients."
   },
   communication: {
-    phone: "+91 90000 00000",
-    displayPhone: "+91 90000 00000",
-    email: "concierge@auramedical-demo.com",
+    phone: "+91 909 909 2413",
+    displayPhone: "+91 909 909 2413",
+    email: "amperaa.com",
     whatsappText: "Chat with Patient Concierge",
-    whatsappUrl: "https://wa.me/919000000000?text=Hello%20Aura%20Medical%20Pavilion%2C%20I%20would%20like%20to%20inquire%20about%20a%20consultation."
+    whatsappUrl: "https://wa.me/919099092413?text=Hello%20Aura%20Medical%20Pavilion%2C%20I%20would%20like%20to%20inquire%20about%20a%20consultation."
   },
   schedule: [
     { days: "Monday – Friday", hours: "08:30 AM – 06:00 PM", badge: "Consultations & Lab" },

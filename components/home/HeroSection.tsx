@@ -45,7 +45,7 @@ export default function HeroSection() {
             >
               <span className="w-2 h-2 rounded-full bg-teal-500 animate-pulse" />
               <span className="font-mono text-xs uppercase tracking-widest font-medium">
-                Private Medical Practice
+                Designed & Developed by Amperaa
               </span>
             </motion.div>
 

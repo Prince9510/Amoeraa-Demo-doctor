@@ -54,6 +54,11 @@ export const metadata: Metadata = {
   ],
   authors: [{ name: "Amperaa Creative Studio" }],
   creator: "Amperaa",
+  icons: {
+    icon: [{ url: "/favicon.png", type: "image/png" }],
+    shortcut: "/favicon.png",
+    apple: "/favicon.png",
+  },
   openGraph: {
     type: "website",
     locale: "en_US",
